@@ -1,0 +1,115 @@
+--Q1 (2 réponses)
+SELECT p.Nom
+FROM Personne p
+WHERE p.Age >= 30
+
+--Q2 (2 réponses)
+SELECT p.Nom
+FROM Personne p
+WHERE p.Age < 30
+AND p.Sexe = "F"
+
+--Q3 (2 réponses)
+SELECT m.ID_Message
+FROM Message m
+WHERE m.Expediteur = "P1"
+
+--Q4 (4 réponses)
+SELECT p.Nom
+FROM Personne p
+WHERE p.Sexe = "M"
+ORDER BY p.Nom
+
+--Q5 (4 réponses)
+SELECT m.Contenu
+FROM Message m, Personne p
+WHERE m.Expediteur = p.SSN
+AND p.Sexe = "M"
+
+--Q6 (2 réponses)
+SELECT p.Nom
+FROM Destinataires d, Personne p
+WHERE d.Destinataire = p.SSN
+AND d.ID_Message = "M4"
+
+--Q7 (3 réponses)
+SELECT DISTINCT m.Contenu
+FROM Destinataires d, Personne p, Message m
+WHERE d.Destinataire = p.SSN
+AND m.ID_Message = d.ID_Message
+AND p.Sexe = "F"
+AND p.Age < 30
+
+--Q8 (3 réponses)
+SELECT p.Nom
+FROM Personne p, EstAmi a
+WHERE a.SSN1 = "P1"
+AND a.SSN2 = p.SSN
+
+--Q9 (4 réponses)
+SELECT m.Contenu
+FROM Message m, Personne p
+WHERE m.Expediteur = p.SSN
+AND INSTR( UPPER( p.Nom ) , "E" ) <>0
+
+--Q10 (2 réponses)
+SELECT m.Date_Expedition
+FROM Message m, Destinataires d, Personne p
+WHERE m.ID_Message = d.ID_Message
+AND p.SSN = d.Destinataire
+AND p.Sexe = "F"
+AND UPPER(SUBSTR(p.Nom,1,1)) = "M"
+
+--Q11 (3 réponses)
+SELECT m.Contenu
+FROM Message m, Personne p
+WHERE m.Expediteur = p.SSN
+AND SUBSTR(UPPER(p.Nom),2,1) = 'A'
+AND p.Sexe = "M"
+
+--Q12 (1 réponse)
+SELECT exp.Nom
+FROM Personne exp, Personne dest, Message m, Destinataires d
+WHERE exp.SSN = m.Expediteur
+AND m.ID_Message = d.ID_Message
+AND d.Destinataire = dest.SSN
+AND dest.Age < 18
+
+--Q13 (4 réponses)
+SELECT DISTINCT a2.SSN2
+FROM EstAmi a1, EstAmi a2
+WHERE a1.SSN2 = a2.SSN1
+AND a1.SSN1 = "P1"
+
+--Q14 (4 réponses)
+SELECT DISTINCT a2.SSN2
+FROM EstAmi a1, EstAmi a2, Personne xavier
+WHERE a1.SSN2 = a2.SSN1
+AND a1.SSN1 = xavier.SSN
+AND xavier.Nom = "Xavier"
+
+--Q15 (sans tenir compte des amitiés : 8 réponses)
+SELECT P1.Nom, P2.Nom
+FROM Personne p1, Personne p2
+WHERE p1.Sexe = "M"
+AND p2.Sexe = "F"
+
+--Q15 (en tenant compte des amitiés : 3 réponses)
+SELECT P1.Nom, P2.Nom
+FROM Personne p1, Personne p2, EstAmi a
+WHERE a.SSN1 = p1.SSN
+AND d.SSN2 = p2.SSN
+AND p1.Sexe = "M"
+AND p2.Sexe = "F"
+
+--Q16 (sans tenir compte des amitiés : 8 réponses)
+SELECT P1.Nom, P2.Nom
+FROM Personne p1, Personne p2
+WHERE p1.Sexe = "M"
+AND p2.Sexe = "F"
+ORDER BY (p1.Age + p2.Age)
+
+--Q16 (en tenant compte des amitiés : 3 réponses)
+SELECT P1.Nom, P2.Nom
+FROM Personne p1, Personne p2, EstAmi a
+WHERE a.SSN1 = p1.SSN

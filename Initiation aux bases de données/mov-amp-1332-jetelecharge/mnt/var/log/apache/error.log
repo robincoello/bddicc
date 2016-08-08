@@ -1,0 +1,262 @@
+[Mon Feb 29 18:00:07 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Mon Feb 29 18:00:07 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Mon Feb 29 18:00:07 2016] [notice] Parent: Created child process 3108
+[Mon Feb 29 18:00:11 2016] [notice] Child 3108: Child process is running
+[Mon Feb 29 18:00:11 2016] [notice] Child 3108: Acquired the start mutex.
+[Mon Feb 29 18:00:11 2016] [notice] Child 3108: Starting 250 worker threads.
+[Mon Feb 29 18:00:59 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/phpinfo/
+[Mon Feb 29 18:01:45 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Mon Feb 29 18:05:14 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Mon Feb 29 18:49:29 2016] [notice] Parent: child process exited with status 1073807364 -- Restarting.
+[Tue Mar 08 12:27:49 2016] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 08 12:27:49 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Mar 08 12:27:49 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Mar 08 12:27:49 2016] [notice] Parent: Created child process 4472
+[Tue Mar 08 12:27:49 2016] [notice] Child 4472: Child process is running
+[Tue Mar 08 12:27:49 2016] [notice] Child 4472: Acquired the start mutex.
+[Tue Mar 08 12:27:49 2016] [notice] Child 4472: Starting 250 worker threads.
+[Tue Mar 08 12:30:06 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico
+[Tue Mar 08 12:30:06 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico
+[Wed Mar 09 18:00:47 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 09 18:00:47 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 09 18:00:47 2016] [notice] Parent: Created child process 1120
+[Wed Mar 09 18:00:47 2016] [notice] Child 1120: Child process is running
+[Wed Mar 09 18:00:47 2016] [notice] Child 1120: Acquired the start mutex.
+[Wed Mar 09 18:00:47 2016] [notice] Child 1120: Starting 250 worker threads.
+[Wed Mar 09 18:01:32 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 09 18:01:32 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 09 18:01:32 2016] [notice] Parent: Created child process 1732
+[Wed Mar 09 18:01:32 2016] [notice] Child 1732: Child process is running
+[Wed Mar 09 18:01:32 2016] [notice] Child 1732: Acquired the start mutex.
+[Wed Mar 09 18:01:32 2016] [notice] Child 1732: Starting 250 worker threads.
+[Wed Mar 09 18:05:14 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 09 18:05:14 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 09 18:05:14 2016] [notice] Parent: Created child process 2728
+[Wed Mar 09 18:05:14 2016] [notice] Child 2728: Child process is running
+[Wed Mar 09 18:05:14 2016] [notice] Child 2728: Acquired the start mutex.
+[Wed Mar 09 18:05:14 2016] [notice] Child 2728: Starting 250 worker threads.
+[Wed Mar 09 18:05:51 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 09 18:05:51 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 09 18:05:51 2016] [notice] Parent: Created child process 6012
+[Wed Mar 09 18:05:51 2016] [notice] Child 6012: Child process is running
+[Wed Mar 09 18:05:51 2016] [notice] Child 6012: Acquired the start mutex.
+[Wed Mar 09 18:05:51 2016] [notice] Child 6012: Starting 250 worker threads.
+[Wed Mar 09 19:37:50 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 09 19:37:50 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 09 19:37:50 2016] [notice] Parent: Created child process 4336
+[Wed Mar 09 19:37:50 2016] [notice] Child 4336: Child process is running
+[Wed Mar 09 19:37:50 2016] [notice] Child 4336: Acquired the start mutex.
+[Wed Mar 09 19:37:50 2016] [notice] Child 4336: Starting 250 worker threads.
+[Wed Mar 09 20:42:49 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico
+[Wed Mar 16 18:23:29 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 18:23:29 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 18:23:29 2016] [notice] Parent: Created child process 3632
+[Wed Mar 16 18:23:29 2016] [notice] Child 3632: Child process is running
+[Wed Mar 16 18:23:29 2016] [notice] Child 3632: Acquired the start mutex.
+[Wed Mar 16 18:23:29 2016] [notice] Child 3632: Starting 250 worker threads.
+[Wed Mar 16 18:26:47 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 18:26:47 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 18:26:47 2016] [notice] Parent: Created child process 4912
+[Wed Mar 16 18:26:48 2016] [notice] Child 4912: Child process is running
+[Wed Mar 16 18:26:48 2016] [notice] Child 4912: Acquired the start mutex.
+[Wed Mar 16 18:26:48 2016] [notice] Child 4912: Starting 250 worker threads.
+[Wed Mar 16 18:43:26 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 18:43:26 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 18:43:26 2016] [notice] Parent: Created child process 4300
+[Wed Mar 16 18:43:26 2016] [notice] Child 4300: Child process is running
+[Wed Mar 16 18:43:26 2016] [notice] Child 4300: Acquired the start mutex.
+[Wed Mar 16 18:43:26 2016] [notice] Child 4300: Starting 250 worker threads.
+[Wed Mar 16 18:43:30 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 18:43:30 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 18:43:30 2016] [notice] Parent: Created child process 448
+[Wed Mar 16 18:43:30 2016] [notice] Child 448: Child process is running
+[Wed Mar 16 18:43:30 2016] [notice] Child 448: Acquired the start mutex.
+[Wed Mar 16 18:43:30 2016] [notice] Child 448: Starting 250 worker threads.
+[Wed Mar 16 18:47:14 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico
+[Wed Mar 16 18:47:17 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico
+[Wed Mar 16 18:50:17 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 18:50:17 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 18:50:17 2016] [notice] Parent: Created child process 3044
+[Wed Mar 16 18:50:17 2016] [notice] Child 3044: Child process is running
+[Wed Mar 16 18:50:17 2016] [notice] Child 3044: Acquired the start mutex.
+[Wed Mar 16 18:50:17 2016] [notice] Child 3044: Starting 250 worker threads.
+[Wed Mar 16 18:52:02 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 18:52:02 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 18:52:02 2016] [notice] Parent: Created child process 3572
+[Wed Mar 16 18:52:03 2016] [notice] Child 3572: Child process is running
+[Wed Mar 16 18:52:03 2016] [notice] Child 3572: Acquired the start mutex.
+[Wed Mar 16 18:52:03 2016] [notice] Child 3572: Starting 250 worker threads.
+[Wed Mar 16 19:01:40 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 19:01:40 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 19:01:40 2016] [notice] Parent: Created child process 1100
+[Wed Mar 16 19:01:41 2016] [notice] Child 1100: Child process is running
+[Wed Mar 16 19:01:41 2016] [notice] Child 1100: Acquired the start mutex.
+[Wed Mar 16 19:01:41 2016] [notice] Child 1100: Starting 250 worker threads.
+[Wed Mar 16 19:21:55 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 19:21:55 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 19:21:55 2016] [notice] Parent: Created child process 1036
+[Wed Mar 16 19:21:55 2016] [notice] Child 1036: Child process is running
+[Wed Mar 16 19:21:55 2016] [notice] Child 1036: Acquired the start mutex.
+[Wed Mar 16 19:21:55 2016] [notice] Child 1036: Starting 250 worker threads.
+[Wed Mar 16 19:23:54 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Mar 16 19:23:54 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Mar 16 19:23:54 2016] [notice] Parent: Created child process 4448
+[Wed Mar 16 19:23:55 2016] [notice] Child 4448: Child process is running
+[Wed Mar 16 19:23:55 2016] [notice] Child 4448: Acquired the start mutex.
+[Wed Mar 16 19:23:55 2016] [notice] Child 4448: Starting 250 worker threads.
+[Thu Apr 14 19:46:48 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Apr 14 19:46:48 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Apr 14 19:46:49 2016] [notice] Parent: Created child process 1104
+[Thu Apr 14 19:46:49 2016] [notice] Child 1104: Child process is running
+[Thu Apr 14 19:46:49 2016] [notice] Child 1104: Acquired the start mutex.
+[Thu Apr 14 19:46:49 2016] [notice] Child 1104: Starting 250 worker threads.
+[Thu Apr 14 20:17:39 2016] [notice] Parent: child process exited with status 1073807364 -- Restarting.
+[Tue Apr 19 18:22:10 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Apr 19 18:22:10 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Apr 19 18:22:10 2016] [notice] Parent: Created child process 3500
+[Tue Apr 19 18:22:11 2016] [notice] Child 3500: Child process is running
+[Tue Apr 19 18:22:11 2016] [notice] Child 3500: Acquired the start mutex.
+[Tue Apr 19 18:22:11 2016] [notice] Child 3500: Starting 250 worker threads.
+[Wed Apr 20 18:25:58 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Apr 20 18:25:58 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Apr 20 18:25:58 2016] [notice] Parent: Created child process 3760
+[Wed Apr 20 18:25:58 2016] [notice] Child 3760: Child process is running
+[Wed Apr 20 18:25:58 2016] [notice] Child 3760: Acquired the start mutex.
+[Wed Apr 20 18:25:58 2016] [notice] Child 3760: Starting 250 worker threads.
+[Wed Apr 20 18:28:02 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Apr 20 18:28:02 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Apr 20 18:28:02 2016] [notice] Parent: Created child process 3996
+[Wed Apr 20 18:28:02 2016] [notice] Child 3996: Child process is running
+[Wed Apr 20 18:28:02 2016] [notice] Child 3996: Acquired the start mutex.
+[Wed Apr 20 18:28:02 2016] [notice] Child 3996: Starting 250 worker threads.
+[Wed Apr 20 18:43:23 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Apr 20 18:43:23 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Apr 20 18:43:23 2016] [notice] Parent: Created child process 4664
+[Wed Apr 20 18:43:24 2016] [notice] Child 4664: Child process is running
+[Wed Apr 20 18:43:24 2016] [notice] Child 4664: Acquired the start mutex.
+[Wed Apr 20 18:43:24 2016] [notice] Child 4664: Starting 250 worker threads.
+[Wed Apr 20 20:20:29 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Apr 20 20:20:29 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Apr 20 20:20:29 2016] [notice] Parent: Created child process 5860
+[Wed Apr 20 20:20:29 2016] [notice] Child 5860: Child process is running
+[Wed Apr 20 20:20:29 2016] [notice] Child 5860: Acquired the start mutex.
+[Wed Apr 20 20:20:29 2016] [notice] Child 5860: Starting 250 worker threads.
+[Wed Apr 27 19:14:41 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Apr 27 19:14:41 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Apr 27 19:14:41 2016] [notice] Parent: Created child process 4236
+[Wed Apr 27 19:14:41 2016] [notice] Child 4236: Child process is running
+[Wed Apr 27 19:14:41 2016] [notice] Child 4236: Acquired the start mutex.
+[Wed Apr 27 19:14:41 2016] [notice] Child 4236: Starting 250 worker threads.
+[Wed Apr 27 19:14:51 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico
+[Wed May 04 18:27:16 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 04 18:27:16 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 04 18:27:16 2016] [notice] Parent: Created child process 4428
+[Wed May 04 18:27:16 2016] [notice] Child 4428: Child process is running
+[Wed May 04 18:27:16 2016] [notice] Child 4428: Acquired the start mutex.
+[Wed May 04 18:27:16 2016] [notice] Child 4428: Starting 250 worker threads.
+[Wed May 04 18:56:01 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 04 18:56:01 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 04 18:56:01 2016] [notice] Parent: Created child process 5172
+[Wed May 04 18:56:02 2016] [notice] Child 5172: Child process is running
+[Wed May 04 18:56:02 2016] [notice] Child 5172: Acquired the start mutex.
+[Wed May 04 18:56:02 2016] [notice] Child 5172: Starting 250 worker threads.
+[Wed May 11 18:55:58 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 11 18:55:58 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 11 18:55:58 2016] [notice] Parent: Created child process 3484
+[Wed May 11 18:55:59 2016] [notice] Child 3484: Child process is running
+[Wed May 11 18:55:59 2016] [notice] Child 3484: Acquired the start mutex.
+[Wed May 11 18:55:59 2016] [notice] Child 3484: Starting 250 worker threads.
+[Wed May 11 19:20:18 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 11 19:20:18 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 11 19:20:18 2016] [notice] Parent: Created child process 2116
+[Wed May 11 19:20:18 2016] [notice] Child 2116: Child process is running
+[Wed May 11 19:20:18 2016] [notice] Child 2116: Acquired the start mutex.
+[Wed May 11 19:20:18 2016] [notice] Child 2116: Starting 250 worker threads.
+[Wed May 11 19:24:01 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 11 19:24:01 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 11 19:24:01 2016] [notice] Parent: Created child process 6088
+[Wed May 11 19:24:01 2016] [notice] Child 6088: Child process is running
+[Wed May 11 19:24:01 2016] [notice] Child 6088: Acquired the start mutex.
+[Wed May 11 19:24:01 2016] [notice] Child 6088: Starting 250 worker threads.
+[Wed May 18 18:02:56 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 18 18:02:56 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 18 18:02:56 2016] [notice] Parent: Created child process 5940
+[Wed May 18 18:02:56 2016] [notice] Child 5940: Child process is running
+[Wed May 18 18:02:56 2016] [notice] Child 5940: Acquired the start mutex.
+[Wed May 18 18:02:56 2016] [notice] Child 5940: Starting 250 worker threads.
+[Wed May 18 18:04:33 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 18 18:04:33 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 18 18:04:33 2016] [notice] Parent: Created child process 5124
+[Wed May 18 18:04:33 2016] [notice] Child 5124: Child process is running
+[Wed May 18 18:04:33 2016] [notice] Child 5124: Acquired the start mutex.
+[Wed May 18 18:04:33 2016] [notice] Child 5124: Starting 250 worker threads.
+[Wed May 18 18:10:06 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 18 18:10:06 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 18 18:10:06 2016] [notice] Parent: Created child process 1240
+[Wed May 18 18:10:07 2016] [notice] Child 1240: Child process is running
+[Wed May 18 18:10:07 2016] [notice] Child 1240: Acquired the start mutex.
+[Wed May 18 18:10:07 2016] [notice] Child 1240: Starting 250 worker threads.
+[Wed May 18 18:17:35 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 18 18:17:35 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 18 18:17:35 2016] [notice] Parent: Created child process 6368
+[Wed May 18 18:17:35 2016] [notice] Child 6368: Child process is running
+[Wed May 18 18:17:35 2016] [notice] Child 6368: Acquired the start mutex.
+[Wed May 18 18:17:35 2016] [notice] Child 6368: Starting 250 worker threads.
+[Wed May 18 18:51:14 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed May 18 18:51:14 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed May 18 18:51:14 2016] [notice] Parent: Created child process 888
+[Wed May 18 18:51:15 2016] [notice] Child 888: Child process is running
+[Wed May 18 18:51:15 2016] [notice] Child 888: Acquired the start mutex.
+[Wed May 18 18:51:15 2016] [notice] Child 888: Starting 250 worker threads.
+[Wed Jun 01 18:31:55 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jun 01 18:31:55 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Jun 01 18:31:55 2016] [notice] Parent: Created child process 5360
+[Wed Jun 01 18:31:55 2016] [notice] Child 5360: Child process is running
+[Wed Jun 01 18:31:55 2016] [notice] Child 5360: Acquired the start mutex.
+[Wed Jun 01 18:31:55 2016] [notice] Child 5360: Starting 250 worker threads.
+[Wed Jun 01 18:33:12 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jun 01 18:33:12 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Jun 01 18:33:12 2016] [notice] Parent: Created child process 6864
+[Wed Jun 01 18:33:12 2016] [notice] Child 6864: Child process is running
+[Wed Jun 01 18:33:12 2016] [notice] Child 6864: Acquired the start mutex.
+[Wed Jun 01 18:33:12 2016] [notice] Child 6864: Starting 250 worker threads.
+[Wed Jun 01 19:16:01 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jun 01 19:16:01 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Jun 01 19:16:01 2016] [notice] Parent: Created child process 4752
+[Wed Jun 01 19:16:01 2016] [notice] Child 4752: Child process is running
+[Wed Jun 01 19:16:01 2016] [notice] Child 4752: Acquired the start mutex.
+[Wed Jun 01 19:16:01 2016] [notice] Child 4752: Starting 250 worker threads.
+[Wed Jun 01 19:17:03 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jun 01 19:17:03 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Jun 01 19:17:03 2016] [notice] Parent: Created child process 6136
+[Wed Jun 01 19:17:03 2016] [notice] Child 6136: Child process is running
+[Wed Jun 01 19:17:03 2016] [notice] Child 6136: Acquired the start mutex.
+[Wed Jun 01 19:17:03 2016] [notice] Child 6136: Starting 250 worker threads.
+[Wed Jun 01 19:19:36 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jun 01 19:19:36 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Jun 01 19:19:36 2016] [notice] Parent: Created child process 2492
+[Wed Jun 01 19:19:36 2016] [notice] Child 2492: Child process is running
+[Wed Jun 01 19:19:36 2016] [notice] Child 2492: Acquired the start mutex.
+[Wed Jun 01 19:19:36 2016] [notice] Child 2492: Starting 250 worker threads.
+[Wed Jun 01 19:23:48 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico
+[Wed Jun 01 19:25:27 2016] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico
+[Wed Jun 08 18:17:18 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jun 08 18:17:18 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Jun 08 18:17:18 2016] [notice] Parent: Created child process 760
+[Wed Jun 08 18:17:18 2016] [notice] Child 760: Child process is running
+[Wed Jun 08 18:17:19 2016] [notice] Child 760: Acquired the start mutex.
+[Wed Jun 08 18:17:19 2016] [notice] Child 760: Starting 250 worker threads.
+[Wed Jun 08 19:06:55 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jun 08 19:06:55 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Jun 08 19:06:55 2016] [notice] Parent: Created child process 352
+[Wed Jun 08 19:06:55 2016] [notice] Child 352: Child process is running
+[Wed Jun 08 19:06:55 2016] [notice] Child 352: Acquired the start mutex.
+[Wed Jun 08 19:06:55 2016] [notice] Child 352: Starting 250 worker threads.
+[Wed Jun 08 20:35:34 2016] [notice] Parent: child process exited with status 1073807364 -- Restarting.
+[Wed Jun 15 18:09:51 2016] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jun 15 18:09:51 2016] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Jun 15 18:09:51 2016] [notice] Parent: Created child process 2156
+[Wed Jun 15 18:09:51 2016] [notice] Child 2156: Child process is running
+[Wed Jun 15 18:09:51 2016] [notice] Child 2156: Acquired the start mutex.
+[Wed Jun 15 18:09:51 2016] [notice] Child 2156: Starting 250 worker threads.
+[Wed Jun 15 20:32:15 2016] [notice] Parent: child process exited with status 1073807364 -- Restarting.

@@ -1,0 +1,19 @@
+SELECT nom FROM Auteurs WHERE nom LIKE 'r%'; 
+
+SELECT éditeur FROM Livres,Auteurs WHERE nationalité='français' AND auteur_id =id_auteur;
+
+SELECT titre FROM Livres,Auteurs WHERE nom= 'REEVES' and auteur_id =id_auteur ;
+
+SELECT livres.Titre, livres.Prix       OU       SELECT livres.Titre, livres.Prix  from Auteurs, Livres where auteur_id = id_auteur
+													WHERE prix <1000 AND Nationalité='Belge'; 
+FROM AUTEURS join livres 
+ON auteur_id = id_auteur
+WHERE prix <1000 AND Nationalité='Belge'; 
+
+SELECT livres.Titre, livres.Prix
+FROM livres
+WHERE livres.Prix>600 And livres.Prix<900 AND livres.Emprunté=1;
+
+SELECT livres.Titre, livres.nb_exempl, Prix * 0.8 
+FROM livres
+WHERE livres.nb_exempl > 10;

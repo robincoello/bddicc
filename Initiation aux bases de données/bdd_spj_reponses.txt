@@ -1,0 +1,22 @@
+1) Déterminez par quantité le nombre de livraisons effectuées
+Exemple : il y a eu 4 livraisons de 100 unités, 7 livraisons de 200 unités, etc...
+
+SELECT count(DATE_DERNIERE_LIVRAISON) NL, QTY FROM SPJ GROUP BY QTY
+
+2) On souhaite connaître le nombre de livraisons de chaque fournisseur.
+Exemple : le fournisseur S2 a effectué 8 livraisons. Le fournisseur S3 a effectué 2 livraisons.
+
+select count(DATE_DERNIERE_LIVRAISON) as Total_livration, ID_S from SPJ group by ID_S
+
+3) On veut connaître le nombre de pièces fournies par projet. On souhaite le nom du projet et non
+pas son identifiant.
+Exemple : on a fourni 800 pièces au projet Sorter, 1200 pièces au projet Display.
+
+SELECT SUM(qty), JNAME FROM SPJ, J WHERE SPJ.ID_J = J.ID_J GROUP BY JNAME
+
+
+4) On veut connaître le poids de chaque livraison.
+
+
+
+

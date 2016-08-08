@@ -1,0 +1,1 @@
+alter table livres drop emprunté;

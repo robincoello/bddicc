@@ -1,0 +1,7 @@
+1 select nom from Personne where Age > 30 
+2 select Nom from Personne where Sexe = 'F' and Age < 30 
+3 select ID_Message from Message where Expediteur = 'P1' 
+4 select Nom from Personne where Sexe = 'M' order by Nom
+5 select m.Contenu from Message m, Personne p where m.Expediteur = p.SSN and Sexe = 'M' 
+6 select * from Personne p, Destinataires d where p.SSN = d.Destinataire and d.ID_Message = 'M4' 
+7 

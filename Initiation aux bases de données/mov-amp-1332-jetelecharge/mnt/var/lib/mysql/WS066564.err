@@ -1,0 +1,3004 @@
+160511 19:20:18  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/mysql/en/Operating_System_error_codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+160511 19:20:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/mysql/en/Operating_System_error_codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+160511 19:21:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/mysql/en/Operating_System_error_codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+160511 19:22:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/mysql/en/Operating_System_error_codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+160608 18:17:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160608 18:17:17  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 244522.
+InnoDB: Doing recovery: scanned up to log sequence number 0 244522
+160608 18:17:17  InnoDB: Flushing modified pages from the buffer pool...
+160608 18:17:17  InnoDB: Started; log sequence number 0 244522
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160608 18:56:51  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:51  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:51  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:51  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:51  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:51  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:51  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:51  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:52  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:55  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:55  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:55  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:55  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:55  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:56:55  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:02  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:02  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:02  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:02  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:02  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:02  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:05  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:05  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:05  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:05  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:05  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:05  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:57:09  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:15  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:23  InnoDB: Error: table `fournisseurs/j` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 18:58:23  InnoDB: Error: table `fournisseurs/p` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 18:58:23  InnoDB: Error: table `fournisseurs/s` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 18:58:23  InnoDB: Error: table `fournisseurs/spj` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 18:58:25  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:25  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:25  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:25  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:25  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:25  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:25  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:58:25  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:17  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:17  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:17  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:17  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:17  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:17  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:17  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:17  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:18  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:23  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:23  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:23  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:23  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:23  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:23  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:28  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:30  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:30  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:30  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:30  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:30  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:30  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:30  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:30  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:50  InnoDB: Error: table `fournisseurs/j` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 18:59:50  InnoDB: Error: table `fournisseurs/p` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 18:59:50  InnoDB: Error: table `fournisseurs/s` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 18:59:50  InnoDB: Error: table `fournisseurs/spj` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 18:59:56  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:00  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:26  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:26  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:26  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:26  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:26  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:26  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:26  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:26  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:27  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:31  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:31  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:31  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:31  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:31  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:31  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:31  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:31  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:54  InnoDB: Error: table `fournisseurs/j` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 19:00:54  InnoDB: Error: table `fournisseurs/p` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 19:00:54  InnoDB: Error: table `fournisseurs/s` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 19:00:54  InnoDB: Error: table `fournisseurs/spj` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 19:00:56  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:56  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:56  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:56  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:56  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:56  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:56  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:00:56  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:41  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:46  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:46  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:46  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:46  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:46  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:46  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:46  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:46  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:53  InnoDB: Error: table `fournisseurs/j` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 19:01:53  InnoDB: Error: table `fournisseurs/p` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 19:01:53  InnoDB: Error: table `fournisseurs/s` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 19:01:53  InnoDB: Error: table `fournisseurs/spj` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+160608 19:01:55  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:55  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:55  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:55  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:55  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:55  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:55  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:55  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:01:59  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:04  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:04  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:04  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:04  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:04  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:04  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:04  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:04  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:16  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:32  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:32  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:32  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:32  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:32  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:32  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:32  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:32  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:33  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:39  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:39  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:39  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:39  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:39  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:39  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:39  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:39  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:42  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:42  InnoDB error:
+Cannot find table fournisseurs/j from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:42  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:42  InnoDB error:
+Cannot find table fournisseurs/p from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:42  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:42  InnoDB error:
+Cannot find table fournisseurs/s from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:42  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:02:42  InnoDB error:
+Cannot find table fournisseurs/spj from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+Look from section 15.1 of http://www.innodb.com/ibman.html
+how you can resolve the problem.
+160608 19:06:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160608 19:06:54  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 244532.
+InnoDB: Doing recovery: scanned up to log sequence number 0 244532
+160608 19:06:54  InnoDB: Flushing modified pages from the buffer pool...
+160608 19:06:54  InnoDB: Started; log sequence number 0 244532
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+160615 18:09:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160615 18:09:50  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 265885.
+InnoDB: Doing recovery: scanned up to log sequence number 0 265885
+160615 18:09:50  InnoDB: Flushing modified pages from the buffer pool...
+160615 18:09:50  InnoDB: Started; log sequence number 0 265885
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)

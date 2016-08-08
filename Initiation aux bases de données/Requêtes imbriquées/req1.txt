@@ -1,0 +1,33 @@
+SELECT nom, prénom, nationalité, titre, éditeur, prix
+FROM auteurs, livres
+WHERE auteur_id = id_auteur
+AND genre
+IN (
+'essai',  'traité',  'roman',  'scolaire'
+);
+
+select max(prix) from 
+(SELECT nom, prénom, nationalité, titre, éditeur, prix
+FROM auteurs, livres
+WHERE auteur_id = id_auteur
+AND genre
+IN (
+'essai',  'traité',  'roman',  'scolaire'
+))as prix_max;
+
+SELECT nom, prénom, nationalité
+FROM auteurs
+WHERE auteur_id IN (
+SELECT id_auteur
+FROM livres 
+WHERE éditeur like '%a%');
+
+RESULTAT IDENTIQUE POSSIBLE EN UTILISANT UNE JOINTURE ENTRE LES 2 TABLES
+
+
+SELECT nom, prénom, nationalité
+FROM auteurs
+WHERE auteur_id  NOT IN (
+SELECT id_auteur
+FROM livres 
+WHERE éditeur like '%a%');

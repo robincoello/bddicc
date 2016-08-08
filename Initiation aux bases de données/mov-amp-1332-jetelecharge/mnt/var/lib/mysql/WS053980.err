@@ -1,0 +1,12 @@
+160419 18:22:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+160419 18:22:15  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 177734.
+InnoDB: Doing recovery: scanned up to log sequence number 0 177734
+160419 18:22:15  InnoDB: Flushing modified pages from the buffer pool...
+160419 18:22:15  InnoDB: Started; log sequence number 0 177734
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)

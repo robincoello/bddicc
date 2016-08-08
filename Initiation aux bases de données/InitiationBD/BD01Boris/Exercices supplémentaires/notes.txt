@@ -1,0 +1,3 @@
+Requêtes faisables après le laboratoire 2 (equi-jointures) : 1,2,3,5
+Après le laboratoire 3 : 1,2,3,4,5,6(sans UNION ni IN), 9 (sans IN ni EXISTS), 17
+Après le laboratoire 5 (GROUP BY) : 15,16,17,18
